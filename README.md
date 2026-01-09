@@ -141,6 +141,9 @@ http://localhost:8000
 
 ---
 
+This project builds upon the interaction model developed in JediParticle, applying it to a spatial navigation problem (a 3D Earth) and exploring domain-specific interaction design.
+https://github.com/mehuljain866/JediParticle
+
 ## 📄 License
 
 MIT License — free to use, modify, and build upon.
